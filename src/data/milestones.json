@@ -1,0 +1,9 @@
+[
+  { "hourStart": 0, "hourEnd": 4, "phase": "Fed", "desc": "Insulin elevated; glucose primary fuel." },
+  { "hourStart": 4, "hourEnd": 8, "phase": "Early Fasting", "desc": "Insulin falling; liver glycogen mobilization." },
+  { "hourStart": 8, "hourEnd": 14, "phase": "Glycogen Tap", "desc": "Hepatic glycogen depletion accelerating." },
+  { "hourStart": 14, "hourEnd": 20, "phase": "Fat Transition", "desc": "Rising fat oxidation; ketones may appear." },
+  { "hourStart": 20, "hourEnd": 36, "phase": "Light Ketosis", "desc": "Ketones often detectable; appetite may dip." },
+  { "hourStart": 36, "hourEnd": 72, "phase": "Deeper Ketosis", "desc": "Fat-derived ketones primary for brain." },
+  { "hourStart": 72, "hourEnd": 168, "phase": "Extended Fast", "desc": "Extended fast zone — stay hydrated; consult a provider if unsure." }
+]
